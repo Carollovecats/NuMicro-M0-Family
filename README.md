@@ -1,4 +1,4 @@
- NuMicro-M0-Family BSP / Sample Code
+ NuMicro M0 Family BSP / Sample Code
 -------------
 - [Mini51](https://github.com/OpenNuvoton/Mini51BSP)
 - [Mini55](https://github.com/OpenNuvoton/Mini55BSP)
