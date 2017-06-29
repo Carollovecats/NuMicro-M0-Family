@@ -6,4 +6,4 @@ NuMicro-M0-Family
 - [Nano100A BSP / Sample Code](https://github.com/OpenNuvoton/Nano100A_BSP)
 - [Nano100B BSP / Sample Code](https://github.com/OpenNuvoton/Nano100B_BSP)
 - [Nano103 BSP / Sample Code](https://github.com/OpenNuvoton/Nano103BSP)
-- [Nano112/102 BSP / Sample Code](https://github.com/OpenNuvoton/Nano102_112BSP)
+- [Nano112 / 102 BSP / Sample Code](https://github.com/OpenNuvoton/Nano102_112BSP)
